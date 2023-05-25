@@ -9,6 +9,7 @@ function calculaMedia(notasDaSala) {
 
     const media = somaDasNotas / notasDaSala.length;
 
+    
     return media;
 
 }
